@@ -1,7 +1,4 @@
 Script started on 2023-07-25 16:30:25-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
-Agent pid 2135
-Identity added: /home/joseph/.ssh/id_rsa (joseph@Joseph)
-Identity added: /home/joseph/.ssh/id_ed25519 (92230691+jclifford4@users.noreply.github.com)
 [1;34m(16:30:25) [1;31m[[1;36mjoseph[1;31m@[1;32mJoseph:[1;31m~/projects/cs480/cs480-p0/three[1;31m] $[0m exitmake testbbufferexit[K./testbbuffer 
 consumer 0 started!
 consumer 1 started!
