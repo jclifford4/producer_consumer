@@ -1,0 +1,77 @@
+Script started on 2023-07-25 16:30:25-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+Agent pid 2135
+Identity added: /home/joseph/.ssh/id_rsa (joseph@Joseph)
+Identity added: /home/joseph/.ssh/id_ed25519 (92230691+jclifford4@users.noreply.github.com)
+[1;34m(16:30:25) [1;31m[[1;36mjoseph[1;31m@[1;32mJoseph:[1;31m~/projects/cs480/cs480-p0/three[1;31m] $[0m exitmake testbbufferexit[K./testbbuffer 
+consumer 0 started!
+consumer 1 started!
+consumer 2 started!
+consumer 3 started!
+producer 0 started!
+consumer 4 started!
+producer 1 started!
+producer 2 started!
+producer 1: inserted item 3693 into buffer index 0
+producer 2: inserted item 9480 into buffer index 1
+consumer 4: removed item 3693 from buffer index 0
+producer 0: inserted item 1451 into buffer index 2
+consumer 4: removed item 9480 from buffer index 1
+consumer 1: removed item 1451 from buffer index 2
+producer 1: inserted item 1738 into buffer index 3
+consumer 2: removed item 1738 from buffer index 3
+producer 2: inserted item 6330 into buffer index 4
+producer 1: inserted item 8275 into buffer index 0
+producer 0: inserted item 4874 into buffer index 1
+consumer 2: removed item 6330 from buffer index 4
+consumer 0: removed item 8275 from buffer index 0
+consumer 3: removed item 4874 from buffer index 1
+producer 2: inserted item 8606 into buffer index 2
+consumer 4: removed item 8606 from buffer index 2
+producer 0: inserted item 7650 into buffer index 3
+consumer 1: removed item 7650 from buffer index 3
+producer 2: inserted item 3678 into buffer index 4
+consumer 4: removed item 3678 from buffer index 4
+producer 1: inserted item 3425 into buffer index 0
+consumer 3: removed item 3425 from buffer index 0
+producer 0: inserted item 2905 into buffer index 1
+producer 1: inserted item 4532 into buffer index 2
+consumer 2: removed item 2905 from buffer index 1
+consumer 3: removed item 4532 from buffer index 2
+producer 2: inserted item 7178 into buffer index 3
+producer 0: inserted item 7345 into buffer index 4
+consumer 0: removed item 7178 from buffer index 3
+consumer 1: removed item 7345 from buffer index 4
+producer 1: inserted item 6875 into buffer index 0
+consumer 4: removed item 6875 from buffer index 0
+producer 0: inserted item 3059 into buffer index 1
+consumer 2: removed item 3059 from buffer index 1
+producer 0: inserted item 4766 into buffer index 2
+consumer 0: removed item 4766 from buffer index 2
+producer 2: inserted item 6781 into buffer index 3
+producer 1: inserted item 6483 into buffer index 4
+consumer 1: removed item 6781 from buffer index 3
+consumer 4: removed item 6483 from buffer index 4
+producer 0: inserted item 1442 into buffer index 0
+producer 2: inserted item 8925 into buffer index 1
+consumer 0: removed item 1442 from buffer index 0
+consumer 1: removed item 8925 from buffer index 1
+producer 2: inserted item 2357 into buffer index 2
+consumer 2: removed item 2357 from buffer index 2
+producer 1: inserted item 7377 into buffer index 3
+consumer 3: removed item 7377 from buffer index 3
+producer 1: inserted item 6840 into buffer index 4
+consumer 1: removed item 6840 from buffer index 4
+producer 0: inserted item 4239 into buffer index 0
+producer 1: inserted item 7643 into buffer index 1
+consumer 2: removed item 4239 from buffer index 0
+consumer 0: removed item 7643 from buffer index 1
+producer 2: inserted item 3300 into buffer index 2
+consumer 3: removed item 3300 from buffer index 2
+producer 0: inserted item 7175 into buffer index 3
+consumer 0: removed item 7175 from buffer index 3
+producer 2: inserted item 4337 into buffer index 4
+consumer 3: removed item 4337 from buffer index 4
+[1;34m(16:30:47) [1;31m[[1;36mjoseph[1;31m@[1;32mJoseph:[1;31m~/projects/cs480/cs480-p0/three[1;31m] $[0m exit
+exit
+
+Script done on 2023-07-25 16:30:50-07:00 [COMMAND_EXIT_CODE="0"]
